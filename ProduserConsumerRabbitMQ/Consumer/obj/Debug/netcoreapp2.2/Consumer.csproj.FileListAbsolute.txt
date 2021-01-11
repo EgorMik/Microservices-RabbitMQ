@@ -2,3 +2,11 @@ C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbit
 C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfo.cs
 C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp2.2\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp2.2\Consumer.deps.json
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp2.2\Consumer.runtimeconfig.json
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp2.2\Consumer.runtimeconfig.dev.json
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp2.2\Consumer.dll
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp2.2\Consumer.pdb
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp2.2\Consumer.dll
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp2.2\Consumer.pdb
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp2.2\Consumer.genruntimeconfig.cache
