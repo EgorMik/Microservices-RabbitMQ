@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp2.2\Consumer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfo.cs
+C:\Users\user\source\repos\EgorMik\Microservices-RabbitMQ\ProduserConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp2.2\Consumer.csproj.CoreCompileInputs.cache
